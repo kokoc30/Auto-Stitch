@@ -12,9 +12,9 @@ Start with a supported video link or an uploaded file, then shape selected momen
 
 ## Product Demo
 
-[![Watch Demo — Auto Stitch public-site walkthrough](assets/demo-thumbnail.png)](https://github.com/kokoc30/Auto-Stitch/releases/download/showcase-v1/auto-stitch-public-walkthrough.mp4)
+https://github.com/user-attachments/assets/f65aa939-a640-47d6-b545-872c10030d12
 
-[Watch or download the MP4](https://github.com/kokoc30/Auto-Stitch/releases/download/showcase-v1/auto-stitch-public-walkthrough.mp4) · 54 seconds · silent public-site walkthrough. The video shows the homepage, input controls, and public feature illustrations. It does not demonstrate an authenticated editing session or a newly generated clip.
+54 seconds · silent public-site walkthrough. The video shows the homepage, input controls, and public feature illustrations. It does not demonstrate an authenticated editing session or a newly generated clip.
 
 ## Key Features
 

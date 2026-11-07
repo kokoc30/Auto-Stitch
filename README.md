@@ -1,6 +1,6 @@
 # Auto Stitch
 
-![Auto Stitch â€” AI-assisted video editing](assets/cover.png)
+![Auto Stitch - AI-assisted video editing](assets/cover.png)
 
 Auto Stitch is a proprietary AI-assisted video-editing application that turns long-form videos into short, vertical clips. It brings clip discovery, framing, captions, and editing into one creator workflow.
 

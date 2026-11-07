@@ -1,0 +1,8 @@
+# Deny by default. Stage only reviewed showcase files by exact path.
+*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/cover.png
+!/assets/demo-thumbnail.png
